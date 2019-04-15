@@ -1,4 +1,4 @@
 Oops!
 ====
 
-* [Ubuntu 安装企业微信](wxwork.md)
+[Ubuntu 安装企业微信](wxwork.md)
