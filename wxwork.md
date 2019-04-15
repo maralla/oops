@@ -98,4 +98,6 @@ $ cp wxwork.desktop $HOME/.local/share/applications
 $ cp fonts/msyh.ttc $HOME/.wine/drive_c/windows/Fonts
 ```
 
-进入 Applications 界面，点击企业微信图标。Enjoy!
+进入 Applications 界面，点击企业微信图标。
+
+:banana: Enjoy!
